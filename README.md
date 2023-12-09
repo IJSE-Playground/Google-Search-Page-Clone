@@ -15,11 +15,12 @@ This project is a simple clone of the Google Search Page, designed to replicate 
 * CSS
 
 ### Installation
-1. Clone the repository: 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Google-Search-Page-Clone.git
 
-git clone https://github.com/your-usernamegoogle-search-clone.git
 
-2. Open the index.html file in a web browser.
+3. Open the index.html file in a web browser.
 
 ### Usage
 1. Open the index.html file in your preferred web browser.
@@ -35,3 +36,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ### License
 Copyright &copy; 2023 DEP-11 <br>
 This project is licensed under this [MIT License](License.txt)
+
+![google1](https://github.com/IJSE-Playground/Google-Search-Page-Clone/assets/75952849/fcd75df8-6dca-48e1-8b1a-05e3906381af)
+
+![google2](https://github.com/IJSE-Playground/Google-Search-Page-Clone/assets/75952849/7f52dcb0-b2c7-4159-8d34-1c460e6eb615)
+
+![google3](https://github.com/IJSE-Playground/Google-Search-Page-Clone/assets/75952849/6b2b8733-417f-4e9e-b3d3-615bbf83439f)
