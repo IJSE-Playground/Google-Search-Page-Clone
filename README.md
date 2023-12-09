@@ -17,7 +17,7 @@ This project is a simple clone of the Google Search Page, designed to replicate 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Google-Search-Page-Clone.git
+   git clone https://github.com/IJSE-Playground/Google-Search-Page-Clone.git
 
 
 3. Open the index.html file in a web browser.
